@@ -17,8 +17,8 @@ This project was created in collaboration with Colin May (github.com/ColinMay) f
 
 ## Scheduled Updates
 Going to be refactoring this project intermittently. </br>
-Planning to add
-1. Improved collision detection
+### In the works
+1. Improve collision detection
 2. Update movement to better reflect the Flappy Bird original
     * Planning on switching to detect when the user smiles, making the player object "flap"
     * When this update is implemented, planning on changing name to Happy Bird ;)
