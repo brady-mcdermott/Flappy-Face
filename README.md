@@ -11,7 +11,7 @@ Flappy Bird clone utilizing facial recognition to move the "bird"
 </br>
 
 ## Collaboration Statement
-This project was created in collaboration with Colin May (github.com/ColinMay) for a high school computer science final project in 2019.
+This project was created in collaboration with Colin May (github.com/cmay20) for a high school computer science final project in 2019.
 
 </br>
 
